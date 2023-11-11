@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+html {
+  font-size: 100%;
+}
+body {
+  color: #565656;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+a {
+  color: #565656;
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
+li {
+  list-style: none;
+}
+h1 {
+  color: #565656;
+}
+h2 {
+  color: #565656;
+}
+p {
+  color: #565656;
+}
+
+/* メインタイトル */
+.content {
+  margin-top: 0;
+}
+.page-title {
+  top: 0;
+  color: #565656;
+  margin-bottom: 1%;
+}
+.page-item-img {
+  margin-bottom: 30px;
+}
+
+/* セクション */
+.page-item-text {
+  margin-bottom: 100px;
+}
+
+/* back */
+.link-text {
+  margin: 0 0 0 auto;
+  text-align: right;
+  text-decoration: underline;
+}
